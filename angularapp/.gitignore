@@ -1,0 +1,80 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+<<<<<<< HEAD
+ 
+=======
+
+>>>>>>> bc29ea98c6701f2fea5fb8dd542853ffff549e27
+# compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+<<<<<<< HEAD
+ 
+# dependencies
+/node_modules
+/package-lock.json
+ 
+ 
+# profiling files
+chrome-profiler-events*.json
+speed-measure-plugin*.json
+ 
+=======
+
+# dependencies
+/node_modules
+/package-lock.json
+
+
+# profiling files
+chrome-profiler-events*.json
+speed-measure-plugin*.json
+
+>>>>>>> bc29ea98c6701f2fea5fb8dd542853ffff549e27
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+<<<<<<< HEAD
+ 
+=======
+
+>>>>>>> bc29ea98c6701f2fea5fb8dd542853ffff549e27
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+<<<<<<< HEAD
+ 
+=======
+
+>>>>>>> bc29ea98c6701f2fea5fb8dd542853ffff549e27
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+<<<<<<< HEAD
+ 
+# System Files
+.DS_Store
+Thumbs.db
+=======
+
+# System Files
+.DS_Store
+Thumbs.db
+>>>>>>> bc29ea98c6701f2fea5fb8dd542853ffff549e27
